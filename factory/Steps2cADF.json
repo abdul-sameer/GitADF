@@ -1,0 +1,9 @@
+{
+	"name": "Steps2cADF",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db735fc2-76b1-4c9a-a94a-7c1cf4be4937",
+		"tenantId": "9035ecae-a934-4a32-85d8-4f0ea8a68476"
+	}
+}
